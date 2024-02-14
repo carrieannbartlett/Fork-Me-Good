@@ -17,7 +17,8 @@ When cloning a repositry you do not have write access to, it will automatically 
 You can use the discussion forum in the [Circle Hub Discussion Board.](https://community.madlab.org.uk/c/discussion/)
 
 ## Who maintains and contributes to this project?
-This repository is maintained by Claire Wicher (GirlGeekUpNorth) on behalf of [Shift Click](https://shiftclick.uk/), a programme of digital skills training workshops powered by [MadLab](https://www.madlab.org.uk/).
+This repository is no longer maintained by Claire Wicher (GirlGeekUpNorth) on behalf of [Shift Click](https://shiftclick.uk/), a programme of digital skills training workshops powered by [MadLab](https://www.madlab.org.uk/).
+It's now maintained by Carrie-Ann, just for fun.
 
 ## Who has forked this repository?
-When forking this respoitory, amend this line to introduce yourself.
+Carrie-Ann has.
